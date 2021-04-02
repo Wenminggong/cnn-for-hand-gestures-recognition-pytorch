@@ -10,7 +10,7 @@ This code requires the following:
 
 ## Data Set
 The hand_gestures_data_set_nju data set consists of 2140 color images containing 20 classes. The images were collected in different backgrounds and light conditions, and with different image size. An example image is shown as follow:
-![]()
+![](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch/blob/main/hand_gestures_data_set_nju/hand/1.%E6%8E%A7%E5%88%B6%E5%BC%80%E5%A7%8B/%E4%BA%AE/B_wall_F_1.1.jpg)
 
 To get the complete hand_gestures_data_set_nju data set for academic research, please email to [mjliu@smail.nju.edu.cn](mjliu@smail.nju.edu.cn).
 
