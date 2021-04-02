@@ -17,3 +17,5 @@ The architecture of the designed cnn is shown as follow:
 
 ## Experimental Results
 The experimental results are shown as follows:
+![](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch/blob/main/saves/training_loss.eps "training loss")
+![](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch/blob/main/saves/test_acc.eps "test accuracy")
