@@ -9,7 +9,10 @@ This code requires the following:
 
 
 ## Data Set
+The hand_gestures_data_set_nju data set consists of 2140 color images containing 20 classes. The images were collected in different backgrounds and light conditions, and with different image size. An example image is shown as follow:
+![]()
 
+To get the complete hand_gestures_data_set_nju data set for academic research, please email to [mjliu@smail.nju.edu.cn](mjliu@smail.nju.edu.cn).
 
 ## CNN Architecture
 The architecture of the designed cnn is shown as follow:
@@ -17,5 +20,5 @@ The architecture of the designed cnn is shown as follow:
 
 ## Experimental Results
 The experimental results are shown as follows:
-![](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch/blob/main/saves/training_loss.eps "training loss")
-![](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch/blob/main/saves/test_acc.eps "test accuracy")
+![](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch/blob/main/saves/training_loss.png "training loss")
+![](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch/blob/main/saves/test_acc.png "test accuracy")
