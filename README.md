@@ -1,5 +1,5 @@
 # CNN for Hand Gestures Recognition with pytorch
-
+This repo contains the code for classifying customized hand gestures using cnn. The hand gestures are designed for Human-Robot Interaction in some special scenes (e.g. outer space).
 
 ## Dependencies
 This code requires the following: 
@@ -12,7 +12,7 @@ This code requires the following:
 
 
 ## CNN Architecture
-
+The architecture of the proposed cnn is shown as follow:
 
 ## Experimental Results
 
