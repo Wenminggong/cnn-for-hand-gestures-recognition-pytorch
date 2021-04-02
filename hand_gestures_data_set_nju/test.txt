@@ -1,0 +1,10 @@
+hand_gestures_data_set_nju/train/glove/3.停止动作/自然光/IMG_20201210_122408.jpg 0
+hand_gestures_data_set_nju/train/glove/1.控制开始/亮/IMG_20201211_200152.jpg 1
+hand_gestures_data_set_nju/train/glove/9.机体下降/自然光/IMG_20201211_195937.jpg 2
+hand_gestures_data_set_nju/train/glove/6.数据传输/自然光/IMG_20201211_093315.jpg 4
+hand_gestures_data_set_nju/train/glove/7.原地旋转/亮/IMG_20201211_195826.jpg 5
+hand_gestures_data_set_nju/train/glove/2.控制结束/自然光/IMG_20201210_122935.jpg 9
+hand_gestures_data_set_nju/train/hand/3.停止动作/暗/D_wall_M_3.6.jpg 10
+hand_gestures_data_set_nju/train/hand/8.机体上升/自然光/IMG_20201212_154957.jpg 16
+hand_gestures_data_set_nju/train/hand/4.汇报定位/自然光/IMG_20201212_145104.jpg 18
+hand_gestures_data_set_nju/train/hand/2.控制结束/亮/IMG_20201212_143337.jpg 19
