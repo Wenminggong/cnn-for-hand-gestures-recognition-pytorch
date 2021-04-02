@@ -12,10 +12,8 @@ This code requires the following:
 
 
 ## CNN Architecture
-The architecture of the proposed cnn is shown as follow:
+The architecture of the designed cnn is shown as follow:
 ![](https://github.com/Wenminggong/cnn-for-hand-gestures-recognition-pytorch/blob/main/cnn_architecture.PNG)
 
 ## Experimental Results
-
-
-## Contact
+The experimental results are shown as follows:
